@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "Hash": "HhE96a8ZqiZVQuQ5PU2bbW2wowKhAN/lptZQfsxpod0=",
+  "Source": "Contacts.Server",
+  "BasePath": "_content/Contacts.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\khayatti\\Desktop\\4-IIR\\dotnet\\Contacts\\contacts.client\\contacts.client.esproj",
+      "Version": 2,
+      "Source": "contacts.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Contacts.Server\\wwwroot",
+      "Source": "Contacts.Server",
+      "ContentRoot": "C:\\Users\\khayatti\\Desktop\\4-IIR\\dotnet\\Contacts\\Contacts.Server\\wwwroot\\",
+      "BasePath": "_content/Contacts.Server",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\khayatti\\Desktop\\4-IIR\\dotnet\\Contacts\\Contacts.Server\\wwwroot\\images\\c696f4c7-bd3f-4927-9566-7b30c54055cf_slam-dunkx.jpg",
+      "SourceId": "Contacts.Server",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\khayatti\\Desktop\\4-IIR\\dotnet\\Contacts\\Contacts.Server\\wwwroot\\",
+      "BasePath": "_content/Contacts.Server",
+      "RelativePath": "images/c696f4c7-bd3f-4927-9566-7b30c54055cf_slam-dunkx#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "s9i998x6ob",
+      "Integrity": "wB09jdhzSI4aurkj4990rkc11IsqMGrEOSKJjirbHaE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\c696f4c7-bd3f-4927-9566-7b30c54055cf_slam-dunkx.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/c696f4c7-bd3f-4927-9566-7b30c54055cf_slam-dunkx.jpg",
+      "AssetFile": "C:\\Users\\khayatti\\Desktop\\4-IIR\\dotnet\\Contacts\\Contacts.Server\\wwwroot\\images\\c696f4c7-bd3f-4927-9566-7b30c54055cf_slam-dunkx.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1547435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wB09jdhzSI4aurkj4990rkc11IsqMGrEOSKJjirbHaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 01:23:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wB09jdhzSI4aurkj4990rkc11IsqMGrEOSKJjirbHaE="
+        }
+      ]
+    },
+    {
+      "Route": "images/c696f4c7-bd3f-4927-9566-7b30c54055cf_slam-dunkx.s9i998x6ob.jpg",
+      "AssetFile": "C:\\Users\\khayatti\\Desktop\\4-IIR\\dotnet\\Contacts\\Contacts.Server\\wwwroot\\images\\c696f4c7-bd3f-4927-9566-7b30c54055cf_slam-dunkx.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1547435"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wB09jdhzSI4aurkj4990rkc11IsqMGrEOSKJjirbHaE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 19 Jan 2025 01:23:13 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "s9i998x6ob"
+        },
+        {
+          "Name": "label",
+          "Value": "images/c696f4c7-bd3f-4927-9566-7b30c54055cf_slam-dunkx.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wB09jdhzSI4aurkj4990rkc11IsqMGrEOSKJjirbHaE="
+        }
+      ]
+    }
+  ]
+}

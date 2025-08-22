@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:53337",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "C:\\Users\\khayatti\\Desktop\\4-IIR\\dotnet\\Contacts\\Contacts.Server\\..\\contacts.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

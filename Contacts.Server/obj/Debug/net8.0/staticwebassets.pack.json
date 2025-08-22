@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\khayatti\\Desktop\\4-IIR\\dotnet\\Contacts\\Contacts.Server\\wwwroot\\images\\c696f4c7-bd3f-4927-9566-7b30c54055cf_slam-dunkx.jpg",
+      "PackagePath": "staticwebassets\\images\\c696f4c7-bd3f-4927-9566-7b30c54055cf_slam-dunkx.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Contacts.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Contacts.Server.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Contacts.Server.props",
+      "PackagePath": "build\\Contacts.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Contacts.Server.props",
+      "PackagePath": "buildMultiTargeting\\Contacts.Server.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Contacts.Server.props",
+      "PackagePath": "buildTransitive\\Contacts.Server.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

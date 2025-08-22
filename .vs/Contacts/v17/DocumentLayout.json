@@ -1,0 +1,244 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\khayatti\\Desktop\\Contacts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|c:\\users\\khayatti\\desktop\\contacts\\contacts.server\\data\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|solutionrelative:contacts.server\\data\\contactdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Migrations\\20250119010854_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contacts.Server\\Migrations\\20250119010854_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|c:\\users\\khayatti\\desktop\\contacts\\contacts.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|solutionrelative:contacts.server\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|c:\\users\\khayatti\\desktop\\contacts\\contacts.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|solutionrelative:contacts.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|c:\\users\\khayatti\\desktop\\contacts\\contacts.server\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|solutionrelative:contacts.server\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|c:\\users\\khayatti\\desktop\\contacts\\contacts.server\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|solutionrelative:contacts.server\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|c:\\users\\khayatti\\desktop\\contacts\\contacts.server\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|solutionrelative:contacts.server\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|c:\\users\\khayatti\\desktop\\contacts\\contacts.server\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|solutionrelative:contacts.server\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Migrations\\20250119010535_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contacts.Server\\Migrations\\20250119010535_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Migrations\\20250119010121_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contacts.Server\\Migrations\\20250119010121_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Migrations\\20250119010051_lastt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Contacts.Server\\Migrations\\20250119010051_lastt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|c:\\users\\khayatti\\desktop\\contacts\\contacts.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|solutionrelative:contacts.server\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|c:\\users\\khayatti\\desktop\\contacts\\contacts.server\\contacts.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D8893155-62E5-4C55-BCBD-472DE84EDB64}|Contacts.Server\\Contacts.Server.csproj|solutionrelative:contacts.server\\contacts.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250119010854_initial.cs",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Migrations\\20250119010854_initial.cs",
+              "RelativeDocumentMoniker": "Contacts.Server\\Migrations\\20250119010854_initial.cs",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Migrations\\20250119010854_initial.cs",
+              "RelativeToolTip": "Contacts.Server\\Migrations\\20250119010854_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:08:54.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250119010535_initial.cs",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Migrations\\20250119010535_initial.cs",
+              "RelativeDocumentMoniker": "Contacts.Server\\Migrations\\20250119010535_initial.cs",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Migrations\\20250119010535_initial.cs",
+              "RelativeToolTip": "Contacts.Server\\Migrations\\20250119010535_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:05:35.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Contacts.Server\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Models\\User.cs",
+              "RelativeToolTip": "Contacts.Server\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:03:17.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20250119010121_initial.cs",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Migrations\\20250119010121_initial.cs",
+              "RelativeDocumentMoniker": "Contacts.Server\\Migrations\\20250119010121_initial.cs",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Migrations\\20250119010121_initial.cs",
+              "RelativeToolTip": "Contacts.Server\\Migrations\\20250119010121_initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:01:21.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250119010051_lastt.cs",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Migrations\\20250119010051_lastt.cs",
+              "RelativeDocumentMoniker": "Contacts.Server\\Migrations\\20250119010051_lastt.cs",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Migrations\\20250119010051_lastt.cs",
+              "RelativeToolTip": "Contacts.Server\\Migrations\\20250119010051_lastt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-19T01:00:52.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "Contacts.Server\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Models\\Tag.cs",
+              "RelativeToolTip": "Contacts.Server\\Models\\Tag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T13:00:14.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "Contacts.Server\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Models\\Note.cs",
+              "RelativeToolTip": "Contacts.Server\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:59:54.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "Contacts.Server\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Models\\Group.cs",
+              "RelativeToolTip": "Contacts.Server\\Models\\Group.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:59:40.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "Contacts.Server\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Models\\Contact.cs",
+              "RelativeToolTip": "Contacts.Server\\Models\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:58:05.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContactDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Data\\ContactDbContext.cs",
+              "RelativeDocumentMoniker": "Contacts.Server\\Data\\ContactDbContext.cs",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Data\\ContactDbContext.cs",
+              "RelativeToolTip": "Contacts.Server\\Data\\ContactDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:55:40.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Contacts.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Contacts.Server.csproj",
+              "RelativeDocumentMoniker": "Contacts.Server\\Contacts.Server.csproj",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Contacts.Server.csproj",
+              "RelativeToolTip": "Contacts.Server\\Contacts.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-18T12:54:51.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Program.cs",
+              "RelativeDocumentMoniker": "Contacts.Server\\Program.cs",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\Program.cs",
+              "RelativeToolTip": "Contacts.Server\\Program.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T12:54:36.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\appsettings.json",
+              "RelativeDocumentMoniker": "Contacts.Server\\appsettings.json",
+              "ToolTip": "C:\\Users\\khayatti\\Desktop\\Contacts\\Contacts.Server\\appsettings.json",
+              "RelativeToolTip": "Contacts.Server\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-18T12:54:01.603Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

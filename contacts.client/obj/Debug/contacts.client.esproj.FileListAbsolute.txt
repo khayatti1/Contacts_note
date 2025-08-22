@@ -1,0 +1,4 @@
+C:\Users\khayatti\source\repos\Contacts\contacts.client\obj\Debug\contacts.client.esproj.CoreCompileInputs.cache
+C:\Users\Ayoub IDRISSI\Desktop\Contacts\contacts.client\obj\Debug\contacts.client.esproj.CoreCompileInputs.cache
+C:\Users\khayatti\Desktop\Contacts\contacts.client\obj\Debug\contacts.client.esproj.CoreCompileInputs.cache
+C:\Users\khayatti\Desktop\4-IIR\dotnet\Contacts\contacts.client\obj\Debug\contacts.client.esproj.CoreCompileInputs.cache
